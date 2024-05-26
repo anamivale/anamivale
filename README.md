@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhembelevaleria
 - 👀 I’m interested in web and android dev
-- 🌱 I’m currently learning reactjs 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning go
+- 💞️ I’m looking to collaborate on begginer projects in go
 - 📫 muhembelev@gmail.com
 
 <!---
