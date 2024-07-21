@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhembelevaleria
-- 👀 I’m interested in web cybersecurity and blockchain
+- 👀 I’m interested in web dev, cybersecurity and blockchain
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on begginer projects in go
 - 📫 muhembelev@gmail.com
